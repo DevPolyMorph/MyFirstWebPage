@@ -1,2 +1,2 @@
 # MyFirstWebPage
-This is my first personal webpage that examples basic concepts of html and css.
+This is my first personal webpage that demonstrates basic concepts of html and css.

@@ -57,10 +57,7 @@ ul li:hover ul li {
   background: #125688;
   color: white;
 }
-.fa-github {
-  background:  #125688;
-  color: white;
-}
+
 .main_page_class {
   background: url('rm.png') no-repeat;
   background-size: cover;

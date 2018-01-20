@@ -1,0 +1,13 @@
+{
+    "name": "Seidon Rowk",
+    "icons": [
+        {
+            "src": "/images/icons/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#c9c9c9",
+    "background_color": "#c9c9c9",
+    "display": "standalone"
+}

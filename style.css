@@ -1,5 +1,6 @@
 body {
-    background: url('rm.png') no-repeat;
+    background: url('images/tech2.png');
+    background-position: center center;
     background-size: cover;
     font-family: Arial;
     color: white;
@@ -54,6 +55,10 @@ ul li:hover ul li {
 
 .fa-instagram {
   background: #125688;
+  color: white;
+}
+.fa-github {
+  background:  #125688;
   color: white;
 }
 .main_page_class {
